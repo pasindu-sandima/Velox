@@ -1,5 +1,3 @@
-# This is a test
+# VELOX - SLRC 2019
 
-abcd
-
-edited this
+This repo is used for the development of the robot "Velox" for the robotics competition "SLRC 2019"
