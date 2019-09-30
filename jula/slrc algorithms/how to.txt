@@ -1,0 +1,17 @@
+how to input cell color-
+	'cell coordinate [row,column] as a integer' 'cell color'
+	**leave a white space betweenn two inputs of the cell
+	**colors-	red-1
+			green-2
+			blue-3
+	**starting cell is [1,1]
+
+how to input pillar position-
+	'number representing pillar'
+	** same numbering as usd in the task
+
+output fomat-
+	-list of three items representng the cells
+	-items are sorted in the order needed to release the coins
+	-first 4 parameters are cell parameters and the last parameter is the parameter used for sorting
+	-cell parameters are [coordinate, color, cell number before updating, cell number after updating colors]
