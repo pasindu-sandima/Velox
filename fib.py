@@ -10,7 +10,7 @@ list2=[]
 
 list1.append(int(str(b)[len(str(fib))-3]))
 list2.append(int(str(b)[2]))
-             
+              
 
 for i in range(200):
     fib=a+b
