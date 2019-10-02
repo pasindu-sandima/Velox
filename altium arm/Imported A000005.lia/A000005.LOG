@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : A000005.LibPkg
+
+Section : E:\SLRC SOLIDWORKS\altium arm\A000005.lia
+    Section : PCB Library - A000005.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token A000005 On Line 176
+            Warning - 1 : Skipping Token attachedSymbol On Line 503
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - A000005.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 152
+            Warning - 1 : Skipping Token layerContents On Line 161
+            Warning - 1 : Skipping Token layerContents On Line 167
+        EndSection
+
+        Section : Generating SCH Library - A000005.SchLib
+        EndSection
+    EndSection
+EndSection
