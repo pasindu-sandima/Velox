@@ -2,30 +2,24 @@
 FileName = ButtonPanel.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 4
+      File : ButtonPanel.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : ButtonPanel.GKO
 
     Adding Layer      : Keep-Out Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ButtonPanel.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-    D32
 *************************************************************
 
 *************************************************************
@@ -34,15 +28,12 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
     D16
     D17
     D18
@@ -62,11 +53,8 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D11
     D12
     D13
     D14
@@ -78,17 +66,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 16
-      File : ButtonPanel.GM16
+Generating : Top Overlay
+      File : ButtonPanel.GTO
 
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
     D11
-    D33
 *************************************************************
 
 *************************************************************
@@ -99,11 +85,8 @@ Generating : Bottom Pad Master
 
     Adding Layer      : Multi-Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D11
     D27
     D28
     D29
@@ -111,17 +94,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 4
-      File : ButtonPanel.GM4
+Generating : Bottom Overlay
+      File : ButtonPanel.GBO
 
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D10
     D11
+    D32
 *************************************************************
 
 *************************************************************
@@ -130,15 +111,12 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
     D20
     D21
     D22
@@ -147,33 +125,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : ButtonPanel.GTO
+Generating : Top Layer
+      File : ButtonPanel.GTL
 
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : ButtonPanel.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
+    D12
+    D13
+    D14
+    D15
     D25
+    D26
     D27
     D28
     D29
@@ -182,16 +148,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 16
+      File : ButtonPanel.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : ButtonPanel.GM1
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -200,15 +174,12 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -217,15 +188,12 @@ Generating : Top Paste
 
     Adding Layer      : Top Paste
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
     D12
     D13
     D14
@@ -233,24 +201,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : ButtonPanel.GTL
+Generating : Bottom Layer
+      File : ButtonPanel.GBL
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
     D25
-    D26
     D27
     D28
     D29
