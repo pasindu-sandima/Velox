@@ -1,0 +1,12 @@
+Change Component Comment : Designator=Arduino Old Comment=Header 10 New Comment=Header 12
+Change Net Name : Old Net Name=NetArduino_1 New Net Name=White2
+Change Net Name : Old Net Name=NetArduino_2 New Net Name=LED3
+Change Net Name : Old Net Name=NetArduino_3 New Net Name=LED2
+Change Net Name : Old Net Name=NetArduino_4 New Net Name=LED1
+Change Net Name : Old Net Name=NetArduino_5 New Net Name=White1
+Change Net Name : Old Net Name=NetArduino_6 New Net Name=Button3
+Change Net Name : Old Net Name=NetArduino_7 New Net Name=Button2
+Change Net Name : Old Net Name=NetArduino_8 New Net Name=Button1
+Added Class: Name=ButtonPanel
+Change Room Name: Old Name=OLED New Name=ButtonPanel
+Change Room Scope: Old Scope=False New Scope=InComponentClass('ButtonPanel')

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Arduino Old Footprint=HDR1X12 New Footprint=HDR1X10
+Change Component Comment: Designator=Arduino Old Comment=Header 12 New Comment=Header 10

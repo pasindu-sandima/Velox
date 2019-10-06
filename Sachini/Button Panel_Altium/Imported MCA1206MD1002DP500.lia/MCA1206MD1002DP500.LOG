@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : MCA1206MD1002DP500.LibPkg
+
+Section : C:\Users\Sachi\Downloads\MCA1206MD1002DP500.lia
+    Section : PCB Library - MCA1206MD1002DP500.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCA1206MD1002DP500 On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCA1206MD1002DP500.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - MCA1206MD1002DP500.SchLib
+        EndSection
+    EndSection
+EndSection

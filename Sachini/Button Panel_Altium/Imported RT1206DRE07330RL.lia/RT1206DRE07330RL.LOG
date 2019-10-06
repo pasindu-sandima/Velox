@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : RT1206DRE07330RL.LibPkg
+
+Section : C:\Users\Sachi\Downloads\RT1206DRE07330RL.lia
+    Section : PCB Library - RT1206DRE07330RL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RT1206DRE07330RL On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RT1206DRE07330RL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - RT1206DRE07330RL.SchLib
+        EndSection
+    EndSection
+EndSection

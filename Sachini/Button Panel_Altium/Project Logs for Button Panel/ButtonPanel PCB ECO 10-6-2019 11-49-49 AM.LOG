@@ -1,0 +1,2 @@
+Change Room Name: Old Name=OLED New Name=ButtonPanel
+Change Room Scope: Old Scope=False New Scope=InComponentClass('ButtonPanel')

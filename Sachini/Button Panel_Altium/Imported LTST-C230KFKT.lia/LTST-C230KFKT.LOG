@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : LTST-C230KFKT.LibPkg
+
+Section : C:\Users\Sachi\Downloads\LTST-C230KFKT.lia
+    Section : PCB Library - LTST-C230KFKT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LTST-C230KFKT On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 179
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*LEDC3216X110][Primary] associated with PCAD Component [LTST-C230KFKT] has been renamed to PCB FootPrint [*LEDC3216X110_LTST-C230KFKT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LTST-C230KFKT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - LTST-C230KFKT.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*LEDC3216X110][Primary] associated with PCAD Component [LTST-C230KFKT] has been renamed to PCB FootPrint [*LEDC3216X110_LTST-C230KFKT(Primary)].
+        EndSection
+    EndSection
+EndSection

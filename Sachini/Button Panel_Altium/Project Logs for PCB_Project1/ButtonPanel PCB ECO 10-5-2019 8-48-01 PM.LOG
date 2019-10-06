@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=NetGreen_C Pin=R2-1
+Removed Pin From Net: NetName=NetBlue_C Pin=R3-1
+Removed Pin From Net: NetName=NetArduino_6 Pin=R7-1
+Removed Pin From Net: NetName=NetArduino_7 Pin=R8-1
+Removed Pin From Net: NetName=NetR1_1 Pin=Red-C
+Removed Pin From Net: NetName=NetR4_1 Pin=White1-C
+Removed Pin From Net: NetName=NetR4_1 Pin=White4-2
+Change component parameters: Designator = "R1"; Footprint = "AXIAL-0.3"; UniqueID = "\FGRLMBNF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT1206DRE07330RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "AXIAL-0.3"; UniqueID = "\BLPUBENE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT1206DRE07330RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "AXIAL-0.3"; UniqueID = "\VADDOTNL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT1206DRE07330RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "AXIAL-0.3"; UniqueID = "\AFYBPXBD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT1206DRE07330RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "AXIAL-0.3"; UniqueID = "\GCBGMEQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RT1206DRE07330RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT1206DRE07330RL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "AXIAL-0.3"; UniqueID = "\ODQIQINI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCA1206MD1002DP500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCA1206MD1002DP500/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "AXIAL-0.3"; UniqueID = "\IKCNLROH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCA1206MD1002DP500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCA1206MD1002DP500/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "AXIAL-0.3"; UniqueID = "\VLWFHHPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCA1206MD1002DP500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3116 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCA1206MD1002DP500/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBlue_C Pin=R2-1
+Added Pin To Net: NetName=NetGreen_C Pin=R3-1
+Added Pin To Net: NetName=NetArduino_7 Pin=R7-1
+Added Pin To Net: NetName=NetArduino_6 Pin=R8-1
+Added Pin To Net: NetName=NetR4_1 Pin=Red-C
+Added Pin To Net: NetName=NetR1_1 Pin=White1-C
+Added Pin To Net: NetName=NetR1_1 Pin=White4-2

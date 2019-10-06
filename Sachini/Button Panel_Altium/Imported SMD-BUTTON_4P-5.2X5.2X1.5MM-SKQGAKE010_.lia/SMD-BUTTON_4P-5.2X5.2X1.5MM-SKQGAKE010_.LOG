@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGAKE010_.LibPkg
+
+Section : C:\Users\Sachi\Downloads\SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGAKE010_.lia
+    Section : PCB Library - SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGAKE010_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BOTTON-4P On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 210
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGAKE010_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 114
+        EndSection
+
+        Section : Generating SCH Library - SMD-BUTTON_4P-5.2X5.2X1.5MM-SKQGAKE010_.SchLib
+        EndSection
+    EndSection
+EndSection
