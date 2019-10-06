@@ -1,26 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Button Panel.PrjPCB]
-   Generated File[ButtonPanel.GTO]
-   Generated File[ButtonPanel.GTP]
-   Generated File[ButtonPanel.GTS]
-   Generated File[ButtonPanel.GTL]
-   Generated File[ButtonPanel.GBL]
-   Generated File[ButtonPanel.GBS]
-   Generated File[ButtonPanel.GBP]
-   Generated File[ButtonPanel.GBO]
-   Generated File[ButtonPanel.GM1]
-   Generated File[ButtonPanel.GM4]
-   Generated File[ButtonPanel.GM16]
-   Generated File[ButtonPanel.GKO]
-   Generated File[ButtonPanel.GPT]
-   Generated File[ButtonPanel.GPB]
-   Generated File[ButtonPanel.RUL]
-   Generated File[ButtonPanel.EXTREP]
-   Generated File[ButtonPanel.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Button Panel.PrjPCB]
+   Generated File[ButtonPanel.TXT]
+   Generated File[ButtonPanel.LDP]
+   Generated File[ButtonPanel.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:13:01 PM On 10/6/2019
+Finished Output Generation At 10:03:56 PM On 10/6/2019
