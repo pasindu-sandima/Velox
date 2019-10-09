@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Colour_Sensor_S2 Pin=Arduino_Mega-26
+Removed Pin From Net: NetName=Colour_Sensor_S3 Pin=Arduino_Mega-28
+Removed Pin From Net: NetName=Colour_Sensor_Out Pin=Arduino_Mega-30
+Added Pin To Net: NetName=Colour_Sensor_Out Pin=Arduino_Mega-26
+Added Pin To Net: NetName=Colour_Sensor_S2 Pin=Arduino_Mega-28
+Added Pin To Net: NetName=Colour_Sensor_S3 Pin=Arduino_Mega-30
+Added Room: Name=SLRC_2019_Robot_PCB_Schematic

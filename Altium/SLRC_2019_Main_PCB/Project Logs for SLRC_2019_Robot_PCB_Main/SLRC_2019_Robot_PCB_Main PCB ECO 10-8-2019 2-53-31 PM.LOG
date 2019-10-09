@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=Raykha_S1 Pin=Arduino_Mega-AD0
+Removed Pin From Net: NetName=Raykha_S2 Pin=Arduino_Mega-AD1
+Removed Pin From Net: NetName=Raykha_S3 Pin=Arduino_Mega-AD2
+Removed Pin From Net: NetName=Raykha_S4 Pin=Arduino_Mega-AD3
+Removed Pin From Net: NetName=Raykha_S5 Pin=Arduino_Mega-AD4
+Removed Pin From Net: NetName=Raykha_S6 Pin=Arduino_Mega-AD5
+Removed Pin From Net: NetName=Raykha_S7 Pin=Arduino_Mega-AD6
+Removed Pin From Net: NetName=Raykha_S8 Pin=Arduino_Mega-AD7
+Added Pin To Net: NetName=Raykha_S8 Pin=Arduino_Mega-AD0
+Added Pin To Net: NetName=Raykha_S7 Pin=Arduino_Mega-AD1
+Added Pin To Net: NetName=Raykha_S6 Pin=Arduino_Mega-AD2
+Added Pin To Net: NetName=Raykha_S5 Pin=Arduino_Mega-AD3
+Added Pin To Net: NetName=Raykha_S4 Pin=Arduino_Mega-AD4
+Added Pin To Net: NetName=Raykha_S3 Pin=Arduino_Mega-AD5
+Added Pin To Net: NetName=Raykha_S2 Pin=Arduino_Mega-AD6
+Added Pin To Net: NetName=Raykha_S1 Pin=Arduino_Mega-AD7
+Change Net Name : Old Net Name=Raykha_S1 New Net Name=Raykha_S78_N
+Change Net Name : Old Net Name=Raykha_S2 New Net Name=Raykha_S78_P
+Change Net Name : Old Net Name=Raykha_S3 New Net Name=Raykha_S56_N
+Change Net Name : Old Net Name=Raykha_S4 New Net Name=Raykha_S56_P
+Change Net Name : Old Net Name=Raykha_S5 New Net Name=Raykha_S34_N
+Change Net Name : Old Net Name=Raykha_S6 New Net Name=Raykha_S34_P
+Change Net Name : Old Net Name=Raykha_S7 New Net Name=Raykha_S12_N
+Change Net Name : Old Net Name=Raykha_S8 New Net Name=Raykha_S12_P
+Added Differential Pair: Name=Raykha_S12
+Added Differential Pair: Name=Raykha_S34
+Added Differential Pair: Name=Raykha_S56
+Added Differential Pair: Name=Raykha_S78
+Added Room: Name=SLRC_2019_Robot_PCB_Schematic

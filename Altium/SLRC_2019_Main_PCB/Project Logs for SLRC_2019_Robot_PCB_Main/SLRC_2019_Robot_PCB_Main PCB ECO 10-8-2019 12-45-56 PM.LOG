@@ -1,0 +1,2 @@
+Change Physical Footprint: Designator=Arduino_Mega Old Footprint=*ARDUINO_MEGA2560_REV3_-_RETAIL_ARDUINO_MEGA2560_REV3_-_RETAIL(Primary) New Footprint=*ARDUINO_MEGA2560_REV3_-_RETAIL_ARDUINO_MEGA2560_REV3_-_RETAIL(Primary)
+Change Physical Footprint: Designator=Colour_Sensor Old Footprint=Colour_Sensor_TCS3200 New Footprint=Colour_Sensor_TCS3200

@@ -1,0 +1,2 @@
+Change Physical Footprint: Designator=6V_Buck Old Footprint=Buck_LM2596 New Footprint=Buck_LM2596
+Change Physical Footprint: Designator=Reykha_IR_Panel Old Footprint=Reykha_IR_Panel New Footprint=Reykha_IR_Panel

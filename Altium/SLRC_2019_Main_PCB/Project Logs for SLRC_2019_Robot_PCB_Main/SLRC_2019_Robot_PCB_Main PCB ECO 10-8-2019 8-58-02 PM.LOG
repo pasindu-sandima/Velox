@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IR_1_Out Pin=Arduino_Mega-32
+Removed Pin From Net: NetName=IR_2_Out Pin=Arduino_Mega-34
+Removed Pin From Net: NetName=IR_3_Out Pin=Arduino_Mega-36
+Added Pin To Net: NetName=IR_3_Out Pin=Arduino_Mega-47
+Added Pin To Net: NetName=IR_2_Out Pin=Arduino_Mega-48
+Added Pin To Net: NetName=IR_1_Out Pin=Arduino_Mega-49

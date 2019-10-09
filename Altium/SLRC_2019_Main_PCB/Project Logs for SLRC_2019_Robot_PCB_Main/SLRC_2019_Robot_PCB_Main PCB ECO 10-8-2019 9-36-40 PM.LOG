@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Arduino_GND_Out Pin=Arduino_Mega-GND4
+Removed Pin From Net: NetName=Arduino_GND_Out Pin=Buzzer-2
+Added Pin To Net: NetName=Arduino_GND_Out4 Pin=Arduino_Mega-GND4
+Added Pin To Net: NetName=Arduino_GND_Out4 Pin=Buzzer-2
+Added Net: Name=Arduino_GND_Out4

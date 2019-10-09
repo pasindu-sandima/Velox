@@ -1,0 +1,2 @@
+Change Physical Footprint: Designator=Battery Old Footprint=Battery_Connector New Footprint=Battery_Connector
+Change Physical Footprint: Designator=Booster Old Footprint=DC_DC_Boost_Converter New Footprint=DC_DC_Boost_Converter

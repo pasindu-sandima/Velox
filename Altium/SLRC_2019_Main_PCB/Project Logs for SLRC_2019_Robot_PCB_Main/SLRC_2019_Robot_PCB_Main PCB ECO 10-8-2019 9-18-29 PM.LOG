@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Arduino_GND_Out Pin=Dangaya_Logic-1
+Removed Pin From Net: NetName=Arduino_5V_Out Pin=Dangaya_Logic-2
+Added Pin To Net: NetName=Arduino_5V_Out Pin=Dangaya_Logic-1
+Added Pin To Net: NetName=Arduino_GND_Out Pin=Dangaya_Logic-2

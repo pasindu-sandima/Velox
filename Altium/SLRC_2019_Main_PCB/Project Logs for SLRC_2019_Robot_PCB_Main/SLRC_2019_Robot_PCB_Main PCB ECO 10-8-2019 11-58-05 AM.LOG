@@ -1,0 +1,358 @@
+Added Component: Designator=5V_Buck(Buck_LM4015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=6V_Buck(Buck_LM2596)
+Add component. Clean all parameters for all variants
+Added Component: Designator=12V_Buck(Buck_LM4015)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Arduino_Mega(*ARDUINO_MEGA2560_REV3_-_RETAIL_ARDUINO_MEGA2560_REV3_-_RETAIL(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO MEGA2560 REV3 - RETAIL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20MEGA2560%20REV3%20-%20RETAIL/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Arduino_Switch(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Battery(Battery_Connector)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Bluetooth(Bluetooth_Module_HC-05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Booster(DC_DC_Boost_Converter)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Buzzer(Buzzer)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Colour_Sensor_Switch(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Colour_Sensor(Colour_Sensor_TCS3200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Dangaya_Logic(Dangaya_Logic_JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Dangaya_Motors(Dangaya_Motors_JST)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Display(Button_Panel_LED_and_OLED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Gyro(Gyro_MPU6050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IR_1(Single_Line_Sensor_TCRT5000)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IR_2(Single_Line_Sensor_TCRT5000)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IR_3(Single_Line_Sensor_TCRT5000)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IR_4(Single_Line_Sensor_TCRT5000)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor_1(Pololu_Gear_Motor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Motor_2(Pololu_Gear_Motor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NRF(NRF_24L01)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=Reykha_IR_Panel(Reykha_IR_Panel)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Reykha_Switch(Switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo_Driver(Servo_Driver)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Servo_Power(Servo_Power)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ToF_1(ToF_VL53L0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ToF_2(ToF_VL53L0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ToF_3(ToF_VL53L0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ToF_4(ToF_VL53L0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Arduino_5V_Out Pin=Arduino_Mega-5V_1
+Added Pin To Net: NetName=Arduino_5V_Out Pin=Dangaya_Logic-2
+Added Net: Name=Arduino_5V_Out
+Added Pin To Net: NetName=Arduino_GND_Out Pin=Arduino_Mega-GND1
+Added Pin To Net: NetName=Arduino_GND_Out Pin=Buzzer-2
+Added Pin To Net: NetName=Arduino_GND_Out Pin=Dangaya_Logic-1
+Added Pin To Net: NetName=Arduino_GND_Out Pin=R2-1
+Added Net: Name=Arduino_GND_Out
+Added Pin To Net: NetName=Arduino_V_In Pin=Arduino_Mega-VIN
+Added Pin To Net: NetName=Arduino_V_In Pin=Arduino_Switch-1
+Added Net: Name=Arduino_V_In
+Added Pin To Net: NetName=Battery_+ Pin=5V_Buck-1
+Added Pin To Net: NetName=Battery_+ Pin=6V_Buck-1
+Added Pin To Net: NetName=Battery_+ Pin=Arduino_Switch-2
+Added Pin To Net: NetName=Battery_+ Pin=Battery-1
+Added Pin To Net: NetName=Battery_+ Pin=Booster-1
+Added Net: Name=Battery_+
+Added Pin To Net: NetName=Battery_- Pin=5V_Buck-2
+Added Pin To Net: NetName=Battery_- Pin=6V_Buck-2
+Added Pin To Net: NetName=Battery_- Pin=Arduino_Mega-GND2
+Added Pin To Net: NetName=Battery_- Pin=Battery-2
+Added Pin To Net: NetName=Battery_- Pin=Booster-2
+Added Net: Name=Battery_-
+Added Pin To Net: NetName=Bluetooth_Rx Pin=Arduino_Mega-16
+Added Pin To Net: NetName=Bluetooth_Rx Pin=Bluetooth-4
+Added Net: Name=Bluetooth_Rx
+Added Pin To Net: NetName=Bluetooth_Tx Pin=Arduino_Mega-17
+Added Pin To Net: NetName=Bluetooth_Tx Pin=R1-2
+Added Net: Name=Bluetooth_Tx
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=5V_Buck-4
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Bluetooth-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Colour_Sensor-5
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Display-12
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Gyro-2
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=IR_1-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=IR_2-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=IR_3-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=IR_4-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Motor_1-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Motor_2-3
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Reykha_IR_Panel-2
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=Servo_Driver-1
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=ToF_1-6
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=ToF_2-6
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=ToF_3-6
+Added Pin To Net: NetName=Buck_5V_Out_GND Pin=ToF_4-6
+Added Net: Name=Buck_5V_Out_GND
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=5V_Buck-3
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Bluetooth-2
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Colour_Sensor_Switch-2
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Display-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Gyro-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=IR_1-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=IR_2-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=IR_3-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=IR_4-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Motor_1-4
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Motor_2-4
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Reykha_Switch-2
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=Servo_Driver-4
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=ToF_1-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=ToF_2-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=ToF_3-1
+Added Pin To Net: NetName=Buck_5V_Out_Vcc Pin=ToF_4-1
+Added Net: Name=Buck_5V_Out_Vcc
+Added Pin To Net: NetName=Buck_6V_Out_GND Pin=6V_Buck-4
+Added Pin To Net: NetName=Buck_6V_Out_GND Pin=Servo_Power-2
+Added Net: Name=Buck_6V_Out_GND
+Added Pin To Net: NetName=Buck_6V_Out_Vcc Pin=6V_Buck-3
+Added Pin To Net: NetName=Buck_6V_Out_Vcc Pin=Servo_Power-1
+Added Net: Name=Buck_6V_Out_Vcc
+Added Pin To Net: NetName=Buck_12V_In_GND Pin=12V_Buck-2
+Added Pin To Net: NetName=Buck_12V_In_GND Pin=Booster-3
+Added Net: Name=Buck_12V_In_GND
+Added Pin To Net: NetName=Buck_12V_In_Vcc Pin=12V_Buck-1
+Added Pin To Net: NetName=Buck_12V_In_Vcc Pin=Booster-4
+Added Net: Name=Buck_12V_In_Vcc
+Added Pin To Net: NetName=Buck_12V_Out_GND Pin=12V_Buck-4
+Added Pin To Net: NetName=Buck_12V_Out_GND Pin=Dangaya_Motors-5
+Added Net: Name=Buck_12V_Out_GND
+Added Pin To Net: NetName=Buck_12V_Out_Vcc Pin=12V_Buck-3
+Added Pin To Net: NetName=Buck_12V_Out_Vcc Pin=Dangaya_Motors-6
+Added Net: Name=Buck_12V_Out_Vcc
+Added Pin To Net: NetName=Button_1 Pin=Arduino_Mega-41
+Added Pin To Net: NetName=Button_1 Pin=Display-6
+Added Net: Name=Button_1
+Added Pin To Net: NetName=Button_2 Pin=Arduino_Mega-43
+Added Pin To Net: NetName=Button_2 Pin=Display-5
+Added Net: Name=Button_2
+Added Pin To Net: NetName=Button_3 Pin=Arduino_Mega-45
+Added Pin To Net: NetName=Button_3 Pin=Display-4
+Added Net: Name=Button_3
+Added Pin To Net: NetName=Buzzer_+ Pin=Arduino_Mega-46
+Added Pin To Net: NetName=Buzzer_+ Pin=Buzzer-1
+Added Net: Name=Buzzer_+
+Added Pin To Net: NetName=Colour_Sensor_Out Pin=Arduino_Mega-30
+Added Pin To Net: NetName=Colour_Sensor_Out Pin=Colour_Sensor-2
+Added Net: Name=Colour_Sensor_Out
+Added Pin To Net: NetName=Colour_Sensor_S0 Pin=Arduino_Mega-22
+Added Pin To Net: NetName=Colour_Sensor_S0 Pin=Colour_Sensor-8
+Added Net: Name=Colour_Sensor_S0
+Added Pin To Net: NetName=Colour_Sensor_S1 Pin=Arduino_Mega-24
+Added Pin To Net: NetName=Colour_Sensor_S1 Pin=Colour_Sensor-7
+Added Net: Name=Colour_Sensor_S1
+Added Pin To Net: NetName=Colour_Sensor_S2 Pin=Arduino_Mega-26
+Added Pin To Net: NetName=Colour_Sensor_S2 Pin=Colour_Sensor-3
+Added Net: Name=Colour_Sensor_S2
+Added Pin To Net: NetName=Colour_Sensor_S3 Pin=Arduino_Mega-28
+Added Pin To Net: NetName=Colour_Sensor_S3 Pin=Colour_Sensor-4
+Added Net: Name=Colour_Sensor_S3
+Added Pin To Net: NetName=Colour_Sensor_Vcc Pin=Colour_Sensor-1
+Added Pin To Net: NetName=Colour_Sensor_Vcc Pin=Colour_Sensor_Switch-1
+Added Net: Name=Colour_Sensor_Vcc
+Added Pin To Net: NetName=Gyro_INT Pin=Arduino_Mega-AD8
+Added Pin To Net: NetName=Gyro_INT Pin=Gyro-8
+Added Net: Name=Gyro_INT
+Added Pin To Net: NetName=INA_1 Pin=Arduino_Mega-9
+Added Pin To Net: NetName=INA_1 Pin=Dangaya_Logic-6
+Added Net: Name=INA_1
+Added Pin To Net: NetName=INA_2 Pin=Arduino_Mega-12
+Added Pin To Net: NetName=INA_2 Pin=Dangaya_Logic-3
+Added Net: Name=INA_2
+Added Pin To Net: NetName=INB_1 Pin=Arduino_Mega-10
+Added Pin To Net: NetName=INB_1 Pin=Dangaya_Logic-7
+Added Net: Name=INB_1
+Added Pin To Net: NetName=INB_2 Pin=Arduino_Mega-13
+Added Pin To Net: NetName=INB_2 Pin=Dangaya_Logic-4
+Added Net: Name=INB_2
+Added Pin To Net: NetName=IR_1_Out Pin=Arduino_Mega-32
+Added Pin To Net: NetName=IR_1_Out Pin=IR_1-2
+Added Net: Name=IR_1_Out
+Added Pin To Net: NetName=IR_2_Out Pin=Arduino_Mega-34
+Added Pin To Net: NetName=IR_2_Out Pin=IR_2-2
+Added Net: Name=IR_2_Out
+Added Pin To Net: NetName=IR_3_Out Pin=Arduino_Mega-36
+Added Pin To Net: NetName=IR_3_Out Pin=IR_3-2
+Added Net: Name=IR_3_Out
+Added Pin To Net: NetName=IR_4_Out Pin=Arduino_Mega-38
+Added Pin To Net: NetName=IR_4_Out Pin=IR_4-2
+Added Net: Name=IR_4_Out
+Added Pin To Net: NetName=LED_1 Pin=Arduino_Mega-31
+Added Pin To Net: NetName=LED_1 Pin=Display-7
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=Arduino_Mega-33
+Added Pin To Net: NetName=LED_2 Pin=Display-8
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=Arduino_Mega-35
+Added Pin To Net: NetName=LED_3 Pin=Display-9
+Added Net: Name=LED_3
+Added Pin To Net: NetName=LED_4 Pin=Arduino_Mega-37
+Added Pin To Net: NetName=LED_4 Pin=Display-10
+Added Net: Name=LED_4
+Added Pin To Net: NetName=LED_5 Pin=Arduino_Mega-39
+Added Pin To Net: NetName=LED_5 Pin=Display-11
+Added Net: Name=LED_5
+Added Pin To Net: NetName=Motor_1_A Pin=Dangaya_Motors-3
+Added Pin To Net: NetName=Motor_1_A Pin=Motor_1-1
+Added Net: Name=Motor_1_A
+Added Pin To Net: NetName=Motor_1_B Pin=Dangaya_Motors-4
+Added Pin To Net: NetName=Motor_1_B Pin=Motor_1-2
+Added Net: Name=Motor_1_B
+Added Pin To Net: NetName=Motor_1_Enc_A Pin=Arduino_Mega-3
+Added Pin To Net: NetName=Motor_1_Enc_A Pin=Motor_1-5
+Added Net: Name=Motor_1_Enc_A
+Added Pin To Net: NetName=Motor_1_Enc_B Pin=Arduino_Mega-2
+Added Pin To Net: NetName=Motor_1_Enc_B Pin=Motor_1-6
+Added Net: Name=Motor_1_Enc_B
+Added Pin To Net: NetName=Motor_1_PWM Pin=Arduino_Mega-8
+Added Pin To Net: NetName=Motor_1_PWM Pin=Dangaya_Logic-8
+Added Net: Name=Motor_1_PWM
+Added Pin To Net: NetName=Motor_2_A Pin=Dangaya_Motors-1
+Added Pin To Net: NetName=Motor_2_A Pin=Motor_2-1
+Added Net: Name=Motor_2_A
+Added Pin To Net: NetName=Motor_2_B Pin=Dangaya_Motors-2
+Added Pin To Net: NetName=Motor_2_B Pin=Motor_2-2
+Added Net: Name=Motor_2_B
+Added Pin To Net: NetName=Motor_2_Enc_A Pin=Arduino_Mega-19
+Added Pin To Net: NetName=Motor_2_Enc_A Pin=Motor_2-5
+Added Net: Name=Motor_2_Enc_A
+Added Pin To Net: NetName=Motor_2_Enc_B Pin=Arduino_Mega-18
+Added Pin To Net: NetName=Motor_2_Enc_B Pin=Motor_2-6
+Added Net: Name=Motor_2_Enc_B
+Added Pin To Net: NetName=Motor_2_PWM Pin=Arduino_Mega-11
+Added Pin To Net: NetName=Motor_2_PWM Pin=Dangaya_Logic-5
+Added Net: Name=Motor_2_PWM
+Added Pin To Net: NetName=NetBluetooth_5 Pin=Bluetooth-5
+Added Pin To Net: NetName=NetBluetooth_5 Pin=R1-1
+Added Pin To Net: NetName=NetBluetooth_5 Pin=R2-2
+Added Net: Name=NetBluetooth_5
+Added Pin To Net: NetName=NRF_CE Pin=Arduino_Mega-6
+Added Pin To Net: NetName=NRF_CE Pin=NRF-3
+Added Net: Name=NRF_CE
+Added Pin To Net: NetName=NRF_CSN Pin=Arduino_Mega-7
+Added Pin To Net: NetName=NRF_CSN Pin=NRF-4
+Added Net: Name=NRF_CSN
+Added Pin To Net: NetName=NRF_GND Pin=Arduino_Mega-GND3
+Added Pin To Net: NetName=NRF_GND Pin=NRF-1
+Added Net: Name=NRF_GND
+Added Pin To Net: NetName=NRF_MISO Pin=Arduino_Mega-50
+Added Pin To Net: NetName=NRF_MISO Pin=NRF-7
+Added Net: Name=NRF_MISO
+Added Pin To Net: NetName=NRF_MOIS Pin=Arduino_Mega-51
+Added Pin To Net: NetName=NRF_MOIS Pin=NRF-6
+Added Net: Name=NRF_MOIS
+Added Pin To Net: NetName=NRF_SCK Pin=Arduino_Mega-52
+Added Pin To Net: NetName=NRF_SCK Pin=NRF-5
+Added Net: Name=NRF_SCK
+Added Pin To Net: NetName=NRF_Vcc Pin=Arduino_Mega-3V3
+Added Pin To Net: NetName=NRF_Vcc Pin=NRF-2
+Added Net: Name=NRF_Vcc
+Added Pin To Net: NetName=Raykha_S1 Pin=Arduino_Mega-AD0
+Added Pin To Net: NetName=Raykha_S1 Pin=Reykha_IR_Panel-3
+Added Net: Name=Raykha_S1
+Added Pin To Net: NetName=Raykha_S2 Pin=Arduino_Mega-AD1
+Added Pin To Net: NetName=Raykha_S2 Pin=Reykha_IR_Panel-5
+Added Net: Name=Raykha_S2
+Added Pin To Net: NetName=Raykha_S3 Pin=Arduino_Mega-AD2
+Added Pin To Net: NetName=Raykha_S3 Pin=Reykha_IR_Panel-7
+Added Net: Name=Raykha_S3
+Added Pin To Net: NetName=Raykha_S4 Pin=Arduino_Mega-AD3
+Added Pin To Net: NetName=Raykha_S4 Pin=Reykha_IR_Panel-9
+Added Net: Name=Raykha_S4
+Added Pin To Net: NetName=Raykha_S5 Pin=Arduino_Mega-AD4
+Added Pin To Net: NetName=Raykha_S5 Pin=Reykha_IR_Panel-11
+Added Net: Name=Raykha_S5
+Added Pin To Net: NetName=Raykha_S6 Pin=Arduino_Mega-AD5
+Added Pin To Net: NetName=Raykha_S6 Pin=Reykha_IR_Panel-13
+Added Net: Name=Raykha_S6
+Added Pin To Net: NetName=Raykha_S7 Pin=Arduino_Mega-AD6
+Added Pin To Net: NetName=Raykha_S7 Pin=Reykha_IR_Panel-15
+Added Net: Name=Raykha_S7
+Added Pin To Net: NetName=Raykha_S8 Pin=Arduino_Mega-AD7
+Added Pin To Net: NetName=Raykha_S8 Pin=Reykha_IR_Panel-17
+Added Net: Name=Raykha_S8
+Added Pin To Net: NetName=Raykha_Vcc Pin=Reykha_IR_Panel-1
+Added Pin To Net: NetName=Raykha_Vcc Pin=Reykha_Switch-1
+Added Net: Name=Raykha_Vcc
+Added Pin To Net: NetName=SCL Pin=Arduino_Mega-21
+Added Pin To Net: NetName=SCL Pin=Display-2
+Added Pin To Net: NetName=SCL Pin=Gyro-3
+Added Pin To Net: NetName=SCL Pin=ToF_1-5
+Added Pin To Net: NetName=SCL Pin=ToF_2-5
+Added Pin To Net: NetName=SCL Pin=ToF_3-5
+Added Pin To Net: NetName=SCL Pin=ToF_4-5
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Arduino_Mega-20
+Added Pin To Net: NetName=SDA Pin=Display-3
+Added Pin To Net: NetName=SDA Pin=Gyro-4
+Added Pin To Net: NetName=SDA Pin=ToF_1-4
+Added Pin To Net: NetName=SDA Pin=ToF_2-4
+Added Pin To Net: NetName=SDA Pin=ToF_3-4
+Added Pin To Net: NetName=SDA Pin=ToF_4-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=Servo_SCL Pin=Arduino_Mega-SCL
+Added Pin To Net: NetName=Servo_SCL Pin=Servo_Driver-2
+Added Net: Name=Servo_SCL
+Added Pin To Net: NetName=Servo_SDA Pin=Arduino_Mega-SDA
+Added Pin To Net: NetName=Servo_SDA Pin=Servo_Driver-3
+Added Net: Name=Servo_SDA
+Added Pin To Net: NetName=XSHUT_1 Pin=Arduino_Mega-23
+Added Pin To Net: NetName=XSHUT_1 Pin=ToF_1-2
+Added Net: Name=XSHUT_1
+Added Pin To Net: NetName=XSHUT_2 Pin=Arduino_Mega-25
+Added Pin To Net: NetName=XSHUT_2 Pin=ToF_2-2
+Added Net: Name=XSHUT_2
+Added Pin To Net: NetName=XSHUT_3 Pin=Arduino_Mega-27
+Added Pin To Net: NetName=XSHUT_3 Pin=ToF_3-2
+Added Net: Name=XSHUT_3
+Added Pin To Net: NetName=XSHUT_4 Pin=Arduino_Mega-29
+Added Pin To Net: NetName=XSHUT_4 Pin=ToF_4-2
+Added Net: Name=XSHUT_4
+Added Class: Name=SLRC_2019_Robot_PCB_Schematic
+Added Room: Name=SLRC_2019_Robot_PCB_Schematic

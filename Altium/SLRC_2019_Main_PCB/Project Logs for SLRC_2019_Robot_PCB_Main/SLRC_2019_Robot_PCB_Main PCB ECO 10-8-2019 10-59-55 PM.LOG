@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Motor_2_A Pin=Motor_2-1
+Removed Pin From Net: NetName=Motor_2_B Pin=Motor_2-2
+Added Pin To Net: NetName=Motor_2_B Pin=Motor_2-1
+Added Pin To Net: NetName=Motor_2_A Pin=Motor_2-2

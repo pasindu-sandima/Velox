@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=INA_1 Pin=Arduino_Mega-9
+Removed Pin From Net: NetName=INB_1 Pin=Arduino_Mega-10
+Removed Pin From Net: NetName=INA_2 Pin=Arduino_Mega-12
+Removed Pin From Net: NetName=INB_2 Pin=Arduino_Mega-13
+Added Pin To Net: NetName=INB_1 Pin=Arduino_Mega-9
+Added Pin To Net: NetName=INA_1 Pin=Arduino_Mega-10
+Added Pin To Net: NetName=INB_2 Pin=Arduino_Mega-12
+Added Pin To Net: NetName=INA_2 Pin=Arduino_Mega-13
+Added Room: Name=SLRC_2019_Robot_PCB_Schematic
