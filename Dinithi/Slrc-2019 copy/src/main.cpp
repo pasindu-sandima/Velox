@@ -32,24 +32,25 @@ void setup() {
 }
 
 void loop() {
- start_time = millis();
-// GridColorUpdate();
-// CellColorArray();
-// NumberTheGrid();
-// DetectColoredCells();
-// Pillval=150;
-// CalculateColOrder();
-// CalculateRBGSquares();
-// current_time=millis();
-// Serial.println(current_time);
-// for (int a=0;a<3;a++){
-//   for (int b=0; b<2 ; b++){
-//     Serial.print(MovetoCells[a][b]);
-//     Serial.print(" ");
-//   }
-//   Serial.println();
+start_time = millis();
+Gridupdate_3();
+Cellcolorarray_3();
+CellTRavel_update();
+NumberTheGrid();
+DetectColoredCells();
+Pillval=150;
+CalculateColOrder();
+CalculateRBGSquares();
+current_time=millis();
+Serial.println(current_time);
+for (int a=0;a<8;a++){
+  for (int b=0; b<8 ; b++){
+    Serial.print(CellTravelColor[a*8+b]);
+    Serial.print(" ");
+  }
+  Serial.println();
 
-// }
+}
 //detectcolour();
 // digitalWrite(8,HIGH);
 // Serial.print(analogRead(S1));
@@ -69,10 +70,10 @@ void loop() {
 // Serial.print(analogRead(S8));
 // Serial.print(",");
 // Serial.println();
-detectcolour();
-current_time=millis();
-Serial.println(current_time);
-//while(1){}
+// detectcolour();
+// current_time=millis();
+// Serial.println(current_time);
+while(1){}
  
   // put your main code here, to run repeatedly:
 }

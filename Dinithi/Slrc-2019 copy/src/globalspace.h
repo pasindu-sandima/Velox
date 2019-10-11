@@ -91,6 +91,10 @@ long NumGridCell[8][8];
 int Red[6];int Blue[6]; int Green[6];
 int Order[3];
 int MovetoCells[3][2];
+int ccolor_3[32]={0,3,0,0,0,0,3,0,2,0,0,4,0,0,0,0,0,2,0,4,0,2,0,0,0,0,4,0,3,0,0,0};
+int color_3[32];
+int array_3[9];
+int array_3dummy[9]={0,0,0,1,0,1,1,1,0};
 
 
 
