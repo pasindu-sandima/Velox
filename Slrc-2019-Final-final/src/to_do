@@ -1,0 +1,46 @@
+check tof-done
+check color sensor-done
+check algorithmn-done
+if all six found stop checking-done
+adjacent cell of a colored one doesnt need to be checked-done
+
+
+
+//400/420
+//490/510
+****
+Turn 45-done
+GpTo Node-done
+checkPillars-done
+****
+Magnet servo-done
+turn 180-done
+move forward 7,8-done
+slider eka hadanna-done
+communication-done
+check pillar algo-done
+line follow-nothing to do
+see the num of col cells(There were three places to change)
+remoove manually entered pill value in task debug.h
+go to node rows wala brake-done
+
+
+300,300 Kp=10 Kd=20
+400,400
+500,500 16,25 was good
+
+
+
+____________________________________
+*********NEW - 2nd ROUND************
+------------------------------------
+
+--> Secondary Robot placing and leaving Arena 1
+--> Arena 1 leaving reverse then turn right
+--> Check upto pillars function with sec Robot
+--> update uptopillars in task 
+
+
+
+
+corrctposition
