@@ -1,5 +1,0 @@
-check tof
-check color sensor
-check algorithmn
-if all six found stop checking
-adjacent cell of a colored one doesnt need to be checked
